@@ -1,0 +1,14 @@
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\bin\Debug\net6.0\OOP-Project.exe
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\bin\Debug\net6.0\OOP-Project.deps.json
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\bin\Debug\net6.0\OOP-Project.runtimeconfig.json
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\bin\Debug\net6.0\OOP-Project.dll
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\bin\Debug\net6.0\OOP-Project.pdb
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\obj\Debug\net6.0\OOP-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\obj\Debug\net6.0\OOP-Project.AssemblyInfoInputs.cache
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\obj\Debug\net6.0\OOP-Project.AssemblyInfo.cs
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\obj\Debug\net6.0\OOP-Project.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\obj\Debug\net6.0\OOP-Project.dll
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\obj\Debug\net6.0\refint\OOP-Project.dll
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\obj\Debug\net6.0\OOP-Project.pdb
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\obj\Debug\net6.0\OOP-Project.genruntimeconfig.cache
+C:\Users\Ahmet Mert\Desktop\Ahmet\Dersler\Melih\OOP-Project\OOP-Project\obj\Debug\net6.0\ref\OOP-Project.dll
